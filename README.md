@@ -2,7 +2,7 @@
 
 This is a clone of a simple streaming platform like Amazon Prime, HBO Max, Hulu, Netflix, etc.
 
-Hosting Site: 
+Hosting Site: https://jbush1215.github.io/amazon_prime_clone/
 
 ## User Stories
 
