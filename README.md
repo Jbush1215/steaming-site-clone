@@ -2,6 +2,8 @@
 
 This is a clone of a simple streaming platform like Amazon Prime, HBO Max, Hulu, Netflix, etc.
 
+Hosting Site: 
+
 ## User Stories
 
 ```
@@ -17,3 +19,4 @@ AS A child
 I WANT to watch my favorite characters
 SO THAT I can imitate them
 ```
+
