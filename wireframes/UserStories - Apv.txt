@@ -1,0 +1,26 @@
+ 
+
+AS A normal consumer  (Who?) 
+
+I WANT to watch a movie (What?) 
+
+SO THAT I can relax  (Why?) 
+
+ 
+
+ 
+
+AS A critic  (Who?) 
+ 
+I WANT TO leave movie ratings  (What?)
+
+SO THAT others do not waste their time searching for something good (Why?)
+
+
+
+
+AS A child  (Who?) 
+
+I WANT to be entertained (What?) 
+
+SO THAT I can tell my friends what I watched (Why?) 
